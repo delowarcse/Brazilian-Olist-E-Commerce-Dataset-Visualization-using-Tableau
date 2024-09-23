@@ -1,7 +1,7 @@
 # Brazilian Olist E-Commerce Dataset Visualization using Tableau
 
 About Dataset <br/>
-This project utilizes a public dataset of orders made at the Olist Store, a Brazilian ecommerce platform. The dataset includes over 100k orders from 2016 to 2018, covering multiple marketplaces in Brazil. It provides detailed insights into orders, including status, price, payment, freight performance, customer location, product attributes, and customer reviews. Additionally, a geolocation dataset maps Brazilian zip codes to lat/lng coordinates.
+This project utilizes a public dataset of orders made at the Olist Store (https://olist.com/), a Brazilian ecommerce platform. The dataset includes over 100k orders from 2016 to 2018, covering multiple marketplaces in Brazil. It provides detailed insights into orders, including status, price, payment, freight performance, customer location, product attributes, and customer reviews. Additionally, a geolocation dataset maps Brazilian zip codes to lat/lng coordinates.
 
 For dataset download and more details, visit Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data).
 
